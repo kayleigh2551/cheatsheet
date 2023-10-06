@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    color: midnightblue;
+  }
+
+body {
+    text-align: center;
+}
+
+thead {
+    text-align: center;
+    background-color: powderblue;
+    color: midnightblue;
+}
+  
+th, td {
+    font-family: arial, serif; 
+    border: 1px solid black;
+    padding: 5px;
+
+  }
+
+ .code {
+    background-color: lightgrey;
+    font-family: monospace;
+ }
+
+ table.center {
+  margin-left:auto;
+  margin-right: auto;
+ }
